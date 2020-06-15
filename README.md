@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="rapport">Rapport</h1>
 <p><strong>Projeto para hackaton-ccr</strong></p>
 <h2 id="sobre-rapport">Sobre Rapport</h2>
@@ -21,4 +26,14 @@ Através da localização dos usuários e informações enviadas pela central de
 <em><a href="https://xd.adobe.com/view/1398a7c0-1e5c-4dc3-6228-cae2a50701d1-65a9/">Adobe XD Sketch</a></em></p>
 <h2 id="agradecimentos-e-time-de-desenvolvimento">Agradecimentos e time de desenvolvimento</h2>
 <p><strong>Muito obrigado a você que leu e viu nosso projeto</strong> e um agradecimento especial a todos que contriburam com o projeto e participaram do  hackaton.</p>
-| [<img src="https://avatars2.githubusercontent.com/u/48683934?s=400&amp;u=ead265a918ce627ed34aec9f8ec0e126602202c7&amp;v=4" width="115"><br><small>@Matheus Henrique</small>](https://github.com/Matheusdisk) | [<img src="https://avatars0.githubusercontent.com/u/15720772?s=460&amp;u=fa8ce67ba13dba106879ba7dbb2479c80aa53fcf&amp;v=4" width="115"><br><small>@Kayk Mascarenhas</small>](https://github.com/KsmKayk) | [<img src="https://avatars0.githubusercontent.com/u/54421904?s=400&amp;u=3b9ac6828d2456b4c530579eb11059b63bf7f1fa&amp;v=4" width="115"><br><small>@Marcos Caridade</small>](https://github.com/marcoskgithub) | [<img src="https://media.discordapp.net/attachments/721408783297019979/721879797793423380/0.jpg?width=300&amp;height=300" width="115"><br><small>@Maria Daiane</small>](https://www.linkedin.com/in/maria-daiane/) | [<img src="https://avatars2.githubusercontent.com/u/62561595?s=400&amp;v=4"><br><small>@Gabriel Rodrigues</small>](https://github.com/gabrielrzan/) |
+<p><strong><a href="https://github.com/Matheusdisk">Matheus Henrique</a></strong><br>
+<img src="https://avatars2.githubusercontent.com/u/48683934?s=400&amp;u=ead265a918ce627ed34aec9f8ec0e126602202c7&amp;v=4" alt="Matheus"><br>
+<strong><a href="https://github.com/KsmKayk">Kayk Mascarenhas</a></strong><br>
+<img src="https://avatars0.githubusercontent.com/u/15720772?s=460&amp;u=fa8ce67ba13dba106879ba7dbb2479c80aa53fcf&amp;v=4" alt="Kayk"><br>
+<strong><a href="https://github.com/marcoskgithub">Marcos Caridade</a></strong><br>
+<img src="https://avatars0.githubusercontent.com/u/54421904?s=400&amp;u=3b9ac6828d2456b4c530579eb11059b63bf7f1fa&amp;v=4" alt="Marcos"><br>
+<strong><a href="https://www.linkedin.com/in/maria-daiane/">Maria Daiane</a></strong><br>
+<img src="https://media.discordapp.net/attachments/721408783297019979/721879797793423380/0.jpg?width=300&amp;height=300" alt="daiane"><br>
+<strong><a href="https://github.com/gabrielrzan">Gabriel Rodrigues</a></strong><br>
+<img src="https://avatars2.githubusercontent.com/u/62561595?s=400&amp;v=4" alt="Gabriel"></p>
+
