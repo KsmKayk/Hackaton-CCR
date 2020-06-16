@@ -24,6 +24,8 @@ Através da localização dos usuários e informações enviadas pela central de
 <p>Utilizando node junto ao <strong>ReacJS</strong> e <strong>React Native</strong>, a ideia é de criar um app que pode ser moldado a todo tipo de publico e a todo tipo de desenvolvedor. Onde pode ser facilmente exportado tanto para web quanto para android, ios ou windows phone.</p>
 <p><strong>Links</strong><br>
 <em><a href="https://xd.adobe.com/view/1398a7c0-1e5c-4dc3-6228-cae2a50701d1-65a9/">Adobe XD Sketch</a></em></p>
+<em><a href="https://www.youtube.com/watch?v=AuPzALRf90s/">Video Youtube</a></em></p>
+<em><a href="https://www.canva.com/design/DAD_J0bIaow/view?utm_content=DAD_J0bIaow&utm_campaign=designshare&utm_medium=link&utm_source=viewer">Visualização Canva</a></em></p>
 <h2 id="agradecimentos-e-time-de-desenvolvimento">Agradecimentos e time de desenvolvimento</h2>
 <p><strong>Muito obrigado a você que leu e viu nosso projeto</strong> e um agradecimento especial a todos que contriburam com o projeto e participaram do  hackaton.</p>
 <p><strong><a href="https://github.com/Matheusdisk">Matheus Henrique</a></strong><br>
